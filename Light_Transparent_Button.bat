@@ -1,0 +1,1 @@
+regsvr32 currentdicrectory\Form\Light_Transparent_Button.ocx

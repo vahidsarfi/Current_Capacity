@@ -1,0 +1,207 @@
+[Root]
+Most Recent Package=Current
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\Visual-Basic\Examples\me\jaryan\current
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\Windows\System32\MSSTDFMT.DLL=
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\Light Transparent Button.ocx=
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\BZ_Frame2.ocx=
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=
+C:\Windows\System32\wmp.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+c:\program files\microsoft office\office12\excel.exe=
+
+[Package|Dep File 1|Files In Project]
+D:\Visual-Basic\Examples\me\jaryan\Current.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Windows\System32\comcat.dll=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=No
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\BZ_Frame2.ocx=Yes
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\Light Transparent Button.ocx=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+D:\Visual-Basic\Examples\me\jaryan\Current.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Windows\System32\comcat.dll=$(WinSysPathSysFile)
+C:\Windows\System32\wmp.dll=$(AppPath)
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\BZ_Frame2.ocx=$(WinSysPath)
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\Light Transparent Button.ocx=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+D:\Visual-Basic\Examples\me\jaryan\Current.exe=Yes
+C:\Windows\System32\wmp.dll=No
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=current
+
+[Package|Dep File 1|IconGroups]
+Group0=current
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Dep File 1|current]
+Icon1=Current.exe
+Title1=current
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Current.CAB
+DepCabRun=Current.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\Visual-Basic\Examples\me\jaryan\current
+ProjectFolder=D:\Visual-Basic\Examples\me\jaryan
+ServerSideCab=
+File1=D:\Visual-Basic\Examples\me\jaryan\current\Current.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Current|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Visual-Basic\Examples\me\jaryan\current
+
+[Package|Current|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Current|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Current|Files Found]
+
+[Package|Current|Files Released]
+
+[Package|Current|Missing Dependency Information]
+C:\Windows\System32\MSSTDFMT.DLL=
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\Light Transparent Button.ocx=
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\BZ_Frame2.ocx=
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=
+C:\Windows\System32\wmp.dll=
+
+[Package|Current|Out-of-Date Dependency Information]
+
+[Package|Current|Files Added]
+
+[Package|Current|Files Removed]
+c:\program files\microsoft office\office12\excel.exe=
+
+[Package|Current|Files In Project]
+D:\Visual-Basic\Examples\me\jaryan\Current.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Windows\System32\comcat.dll=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=No
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\BZ_Frame2.ocx=Yes
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\Light Transparent Button.ocx=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Current|Configure Registry Files]
+Applicable=No
+
+[Package|Current|Configure Remote Servers]
+Applicable=No
+
+[Package|Current|Install Locations]
+D:\Visual-Basic\Examples\me\jaryan\Current.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Windows\System32\comcat.dll=$(WinSysPathSysFile)
+C:\Windows\System32\wmp.dll=$(AppPath)
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\BZ_Frame2.ocx=$(WinSysPath)
+D:\Visual-Basic\Examples\int\httpwww.mspsoft.com\Hesabdari\Light Transparent Button.ocx=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Current|Configure Shared Files]
+Applicable=Yes
+D:\Visual-Basic\Examples\me\jaryan\Current.exe=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=No
+
+[Package|Current|Distribution]
+Type=single
+Size=
+Title=current
+
+[Package|Current|Package]
+PackageFolder=D:\Visual-Basic\Examples\me\jaryan\current
+ProjectFolder=D:\Visual-Basic\Examples\me\jaryan
+ServerSideCab=
+File1=D:\Visual-Basic\Examples\me\jaryan\current\setup.exe
+File2=D:\Visual-Basic\Examples\me\jaryan\current\Setup.Lst
+File3=D:\Visual-Basic\Examples\me\jaryan\current\Current.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Current|IconGroups]
+Group0=current
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Current|current]
+Icon1=Current.exe
+Title1=current
+StartIn1=$(AppPath)
+Key1=Icon1
